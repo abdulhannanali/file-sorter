@@ -1,4 +1,6 @@
 # file-sorter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/file-sorter.svg)](https://greenkeeper.io/)
 Sorts the files according to the format in folders and sorts those folders according to mime types hellll yeah!!!!
 
 ![file-sorter demo image](http://i.imgur.com/VSDLKI6.png)
